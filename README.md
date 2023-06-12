@@ -1,2 +1,6 @@
-# privacy_policy
-privacy policy
+# Privacy Policy
+
+
+<h2 align="center">
+Information Collected
+</h2> 
